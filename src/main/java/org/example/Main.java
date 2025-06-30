@@ -51,6 +51,7 @@ public class Main {
                 System.out.printf("Area of the rectangle: %.2f%n", rectangle);
                 break;
             default:
+                System.out.print("Invalid shape.");
                 break;
         }
     }
